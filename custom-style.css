@@ -1,31 +1,14 @@
 
 
 
-}
-	body {
+
+body {
 	font-family: Arial;
 }
-	.main-img {
-	border: 2px solid #54C03F;
-	border-radius: 50%;
-}
-	.conteiner {
+.cover {
+	background-image: url("\journey-1130732_1920.jpg");
+	background-position: center;
+	background-size: cover;
+	min-height: 150px;
 	
-	background-color: #D1FAD2;
-	padding: 10px;
 }
-	h1, h2 {
-	color: green;
-	font-variant: small-caps;
-}
-	a{
-		color: darkgreen;
-		font-weight: bold;
-		text-decoration: none;
-	}
-	input {
-		border: 1px solid grey;
-		border-radius: 5px;
-		padding: 3px 5px;
-		margin-bottom: 10px;
-	}
